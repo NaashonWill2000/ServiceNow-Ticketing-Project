@@ -16,7 +16,7 @@ This repository showcases my hands-on ability to manage **ServiceNow incidents f
 ![Workflow](https://img.shields.io/badge/Workflow-Automation-ff69b4)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-GRC%20Focused-orange)
 
-## 🟦 Step 1 — Create a New Incident
+## 🟦 Step 1 — Creating a New Incident
 I created a new incident using the **Self-Service Incident View**, filling out essential info such as:
 - Caller
 - Short description
@@ -24,7 +24,7 @@ I created a new incident using the **Self-Service Incident View**, filling out e
 - Initial state (**New**)
 
 
-📸 **Screenshot:**
+📸 **Screenshots:**
 
 
 ![Create Incident](./Images/serviceNow1.png)
@@ -33,7 +33,7 @@ I created a new incident using the **Self-Service Incident View**, filling out e
 ---
 
 
-## 🟩 Step 2 — Update Ticket Details
+## 🟩 Step 2 — Updating Ticket Details
 As work progressed, I updated the incident with:
 - State changes (**New → In Progress**)
 - Customer-visible comments
@@ -49,7 +49,7 @@ As work progressed, I updated the incident with:
 ---
 
 
-## 🟧 Step 3 — Assign the Ticket
+## 🟧 Step 3 — Assigning the Ticket
 I assigned the ticket to the appropriate support member by:
 - Selecting the correct "Assigned to" user
 - Routing it to the right support queue
@@ -64,7 +64,7 @@ I assigned the ticket to the appropriate support member by:
 ---
 
 
-## 🟨 Step 4 — Add Work Notes & Customer Comments
+## 🟨 Step 4 — Added Work Notes & Customer Comments
 Throughout troubleshooting, I documented:
 - Internal **work notes** for IT staff
 - Customer-visible updates
@@ -74,7 +74,7 @@ Throughout troubleshooting, I documented:
 📸 **Screenshot:**
 
 
-![Work Notes](./Images/serviceNow4.png)
+![Work Notes](./Images/serviceNow3.png)
 
 
 ---
@@ -91,7 +91,7 @@ I performed and documented actions such as:
 ---
 
 
-## 🟪 Step 6 — Resolve the Ticket
+## 🟪 Step 6 — Resolving the Ticket
 Once the issue was fixed, I:
 - Updated the state to **Resolved**
 - Added detailed resolution notes
@@ -102,7 +102,7 @@ Once the issue was fixed, I:
 📸 **Screenshot:**
 
 
-![Resolved Ticket](./Images/serviceNow1.png)
+![Resolved Ticket](./Images/serviceNow4.png)
 
 
 ---
