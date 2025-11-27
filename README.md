@@ -27,7 +27,7 @@ I created a new incident using the **Self-Service Incident View**, filling out e
 📸 **Screenshot:**
 
 
-![Create Incident](./images/serviceNow1.png)
+![Create Incident](./Images/serviceNow1.png)
 
 
 ---
@@ -43,7 +43,7 @@ As work progressed, I updated the incident with:
 📸 **Screenshot:**
 
 
-![Update Ticket](./images/serviceNow2.png)
+![Update Ticket](./Images/serviceNow2.png)
 
 
 ---
@@ -58,7 +58,7 @@ I assigned the ticket to the appropriate support member by:
 📸 **Screenshot:**
 
 
-![Assignment](./images/serviceNow3.png)
+![Assignment](./Images/serviceNow3.png)
 
 
 ---
@@ -74,7 +74,7 @@ Throughout troubleshooting, I documented:
 📸 **Screenshot:**
 
 
-![Work Notes](./images/serviceNow4.png)
+![Work Notes](./Images/serviceNow4.png)
 
 
 ---
@@ -102,7 +102,7 @@ Once the issue was fixed, I:
 📸 **Screenshot:**
 
 
-![Resolved Ticket](./images/serviceNow1.png)
+![Resolved Ticket](./Images/serviceNow1.png)
 
 
 ---
