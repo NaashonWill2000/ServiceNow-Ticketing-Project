@@ -1,4 +1,4 @@
-# ServiceNow Incident Management Demo 🚀
+# ServiceNow Incident Management Demo
 
 This repository showcases my hands-on ability to manage **ServiceNow incidents from start to finish**, including:
 - Creating new incidents
@@ -8,7 +8,7 @@ This repository showcases my hands-on ability to manage **ServiceNow incidents f
 - Troubleshooting and resolving issues
 - Documenting activity logs professionally
 
-## 📛 Badges
+## Badges
 
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-brightgreen)
@@ -24,7 +24,7 @@ I created a new incident using the **Self-Service Incident View**, filling out e
 - Initial state (**New**)
 
 
-📸 **Screenshots:**
+**Screenshots:**
 
 
 ![Create Incident](./Images/serviceNow1.png)
@@ -33,14 +33,14 @@ I created a new incident using the **Self-Service Incident View**, filling out e
 ---
 
 
-## 🟩 Step 2 — Updating Ticket Details
+## Step 2 — Updating Ticket Details
 As work progressed, I updated the incident with:
 - State changes (**New → In Progress**)
 - Customer-visible comments
 - Accurate timestamps captured in the activity log
 
 
-📸 **Screenshot:**
+**Screenshot:**
 
 
 ![Update Ticket](./Images/serviceNow2.png)
@@ -49,7 +49,7 @@ As work progressed, I updated the incident with:
 ---
 
 
-## 🟧 Step 3 — Assigning the Ticket
+## Step 3 — Assigning the Ticket
 I assigned the ticket to the appropriate support member by:
 - Selecting the correct "Assigned to" user
 - Routing it to the right support queue
@@ -64,7 +64,7 @@ I assigned the ticket to the appropriate support member by:
 ---
 
 
-## 🟨 Step 4 — Added Work Notes & Customer Comments
+## Step 4 — Added Work Notes & Customer Comments
 Throughout troubleshooting, I documented:
 - Internal **work notes** for IT staff
 - Customer-visible updates
@@ -80,7 +80,7 @@ Throughout troubleshooting, I documented:
 ---
 
 
-## 🟥 Step 5 — Troubleshooting Actions
+## Step 5 — Troubleshooting Actions
 I performed and documented actions such as:
 - Verifying user reports
 - Checking account status
@@ -91,7 +91,7 @@ I performed and documented actions such as:
 ---
 
 
-## 🟪 Step 6 — Resolving the Ticket
+## Step 6 — Resolving the Ticket
 Once the issue was fixed, I:
 - Updated the state to **Resolved**
 - Added detailed resolution notes
@@ -108,7 +108,7 @@ Once the issue was fixed, I:
 ---
 
 
-## ⬛ Step 7 — Ticket Closure Confirmation
+## Step 7 — Ticket Closure Confirmation
 With the incident resolved and fully documented, the ticket is ready for closure by workflow automation or review.
 
 
