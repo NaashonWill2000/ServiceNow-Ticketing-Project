@@ -1,4 +1,4 @@
-# ServiceNow Incident Management Demo
+# ServiceNow Incident Management
 
 This repository showcases my hands-on ability to manage **ServiceNow incidents from start to finish**, including:
 - Creating new incidents
