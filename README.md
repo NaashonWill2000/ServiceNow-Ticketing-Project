@@ -8,13 +8,6 @@ This repository showcases my hands-on ability to manage **ServiceNow incidents f
 - Troubleshooting and resolving issues
 - Documenting activity logs professionally
 
-## Badges
-
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-brightgreen)
-![ITIL](https://img.shields.io/badge/ITIL-Incident%20Management-blueviolet)
-![Workflow](https://img.shields.io/badge/Workflow-Automation-ff69b4)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-GRC%20Focused-orange)
 
 ## 🟦 Step 1 — Creating a New Incident
 I created a new incident using the **Self-Service Incident View**, filling out essential info such as:
