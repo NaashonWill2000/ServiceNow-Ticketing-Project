@@ -49,7 +49,7 @@ I assigned the ticket to the appropriate support member by:
 - Routing it to the right support queue
 
 
-📸 **Screenshot:**
+**Screenshot:**
 
 
 ![Assignment](./Images/serviceNow3.png)
@@ -65,7 +65,7 @@ Throughout troubleshooting, I documented:
 - Verification steps and communication details
 
 
-📸 **Screenshot:**
+**Screenshot:**
 
 
 ![Work Notes](./Images/serviceNow3.png)
@@ -93,7 +93,7 @@ Once the issue was fixed, I:
 - Ensured the user regained full access
 
 
-📸 **Screenshot:**
+**Screenshot:**
 
 
 ![Resolved Ticket](./Images/serviceNow4.png)
@@ -101,9 +101,12 @@ Once the issue was fixed, I:
 
 ---
 
-
 ## Step 7 — Ticket Closure Confirmation
 With the incident resolved and fully documented, the ticket is ready for closure by workflow automation or review.
 
+---
+
+## Conclusion
+This project demonstrates the implementation of a ServiceNow Incident Management workflow, showcasing the end-to-end process of creating, tracking, and resolving IT incidents. It highlights best practices in incident prioritization, categorization, and workflow automation, providing practical insight into IT service operations.
 
 ---
