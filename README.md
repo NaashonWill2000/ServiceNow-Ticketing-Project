@@ -10,7 +10,7 @@ This repository showcases my hands-on ability to manage **ServiceNow incidents f
 
 ---
 
-## 🟦 Step 1 — Creating a New Incident
+## Step 1 — Creating a New Incident
 I created a new incident using the **Self-Service Incident View**, filling out essential info such as:
 - Caller
 - Short description
