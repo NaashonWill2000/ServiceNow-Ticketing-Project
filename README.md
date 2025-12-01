@@ -8,6 +8,7 @@ This repository showcases my hands-on ability to manage **ServiceNow incidents f
 - Troubleshooting and resolving issues
 - Documenting activity logs professionally
 
+---
 
 ## 🟦 Step 1 — Creating a New Incident
 I created a new incident using the **Self-Service Incident View**, filling out essential info such as:
